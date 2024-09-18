@@ -3,7 +3,7 @@ title: "Herr-X"
 about:
   id: template-area
   template: jolla
-  image: Mai2.jpg
+  image: Mai2.png
   links:
     - icon: twitter
       text: twitter
