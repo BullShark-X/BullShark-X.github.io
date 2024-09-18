@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Herr-X"
 about:
   id: template-area
   template: jolla
@@ -23,7 +23,7 @@ about:
 
 :::{#template-area}
 
-Here goes the information about you. 
+None of your business. 
 
 :::
 
@@ -35,8 +35,8 @@ Fahrenheitstr. 52
 44879 Bochum  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 157 3438567  
+E-Mail: bullshark60 [at] flounderfantasy.com
 
 ## Privacy
 
