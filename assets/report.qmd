@@ -1,10 +1,10 @@
 ---
-title: "Random report"
+title: "Emeishan data"
 author: 
-  - name: Jane Doe
+  - name: HW
     orcid: 0000-0001-2345-6789
     corresponding: true
-    email: Jane.Doe@example.org
+    email: HW@example.org
     
 ---
 
@@ -44,3 +44,12 @@ Make sure identations are correct!
 
 --> 
 
+{python}
+
+import pandas as pd
+#import xmltodict
+
+filePath = 'https://raw.githubusercontent.com/Hezel2000/GeoCosmoChemDataAndTools/refs/heads/main/csv/Emeishan.csv'
+
+df = pd.read_csv(filePath)
+df
